@@ -42,6 +42,20 @@ carousels:
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
 
+
+[*X-Men Vs. Street Fighter (Euro 961004)*](https://archive.org/details/arcade_xmvsf)
+
+### Ladies Cypher
+![Monaleo](https://pbs.twimg.com/media/GQnsZcOaMAAARiD?format=jpg&name=large)
+[Ladies Cypher: Kali, Big Boss Vette, Erica Banks, Mello Buckzz, K Carbon, Enchanting, Skylar Blatt](https://www.youtube.com/watch?v=BqTBtiPXrXc)
+[Ladies Cypher](https://youtu.be/O_6qg8Ky6hs?si=EZmH8RmNQiwEhM-y) [All-Women Cypher Featuring Latto, Flo Milli, Monaleo, Maiya The Don and Mello Buckzz](https://youtu.be/fIs7Cv1JQdM?si=5fqy4jcsVFwL7T8w) 
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
+📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
+[TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
+[bonobo - ESSENTIAL mix 2014, [2014-04-12]BBC radio 1 #bonobo](https://youtu.be/jwHnLHwypuk?si=SOyF5qMBhqdYi7sH)
+![android](https://pbs.twimg.com/media/GPfRCYiaIAIsqdw?format=jpg&name=large)
+
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="QWROBro" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/QWROBro">
   Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
