@@ -12,18 +12,39 @@
 {{ my_include | markdownify }}
 ```
 What we usually do is a capture block - [ParkeR Moore](https://github.com/parkr) [@parkr]
+### WorkingRemote 
+Im not stable in LongBeach right now so im working out of every library on the Subway and LightRail Metrolosangeles lines, Im working on my personal web infrastructure. I lost me Momentum on my M_R_O and Cassini work i was compiling. I keep my favorites in Google Chrome but if i cannot get to a place that will let me use my ChromeProfile im super disabled. Please bear with me! I have Typography work thats not life or death but it got me a logical chance to send a tweet to vogue. I know magazines get taken over so im not a threat to talk to them. But there was friction between me and the girls bodygaurds. They were stalking me. I can swear I saw muna in an issue when i Arrived. I cant talk to Cardi_B! She know everything! I am learning how to turn content into like Magnatiles with [Flexbox](https://www.w3schools.com/css/css3_flexbox_items.asp). I feel so much anger from the public! Im miserable! PPL were poisoning me at the base,m well everyone, a lady talked to me in the supermarket by Mori(Jose pi Place) and said she had Abestos poison from working in #MissionControl Covid all that shits a scam! She had the same symptoms I wake up with at After dealing with Childrens Hospital and Cancer only to find my late wife is with an athlete that has a bigger dick than me...
+
+
+
+### Basic concepts of flexbox
+The flexible box layout module (usually referred to as flexbox) is a one-dimensional layout model for distributing space between items and includes numerous alignment capabilities. This article gives an outline of the main features of flexbox, which we will explore in more detail in the rest of these guides. [readmore](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+[CSS Flex Items](https://www.w3schools.com/css/css3_flexbox_items.asp)
+
+### LATEFORWORK
+![CodeFiltering](https://pbs.twimg.com/media/GQTdwj7bkAAdTD9?format=jpg&name=large)
+```
+@TheView
+ @NASAJPL
+ @ananavarro
+ the things I'm finding censored at the library r a direct effort to control #TheWorldOfBlogging https://codepen.io/thakarashard/pen/QWRaeWo does not work on 
+@CodePen but it works @w3_schools ! so that's @USDOL violation! @Normani u have to learn some laws to protect us
+```
+`https://x.com/RicoThaka/status/1802810142649614358`
+---
+
+![xmMuva](https://pbs.twimg.com/media/GQS-2zJaIAAqqp0?format=jpg&name=large)
+ok she is dead in Atlanta #fraud #wirefraud 
+@essence @nasajpl I'm innocent 
+[AlliedUniversdal](@al_15176468018) threatened me on @metrolosangeles with the #PlasticKnuckleGloves and guns I'm sick of them stalking me those women are sex slaves and keep bugging me to tweet to them I'm not a fucking retard
+![Husla](https://pbs.twimg.com/media/GQTB6Ksb0AAgqJ7?format=jpg&name=large) when #Erika was n #Atlanta she did the #AtlantaHousewife thing so @MalaikaJabali !! YEAH I said it these profiles r illegal is @kashdoll !! an she said she wanted to have my baby an @LinkedIn banned me she started calling her self #Mrs_Kelly [DVshowgirlsHV](https://dejavu.com/showgirls-hollywood/)
+
 
 ![a+](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/a-certification-logo-comptia-a-1636574.png)
 [Street Fighter II' Turbo - Hyper Fighting (street fighter 2' T 921209 Japan)](retrogames.cc/arcade-games/street-fighter-ii-turbo-hyper-fighting-street-fighter-2-t-921209-japan.html) [SaveState](ricothaka.github.io/sf2hfj.save)
 [ Source Code Viewer](https://iplocation.io/view-html-source-code)
 # Good Afternoon Cafeteria 
 im working on a little something cool. Its like that wrist watch flavor on any screen! I think i can make the tweets tile like tumblrs often do with [CSS3 Multi-Column Layout](https://dev.opera.com/articles/css3-multi-column-layout/) ! If thats not the case its still really usable for newspaper style layout for that type of reading ! [csstricksarticle](https://css-tricks.com/techniques-for-a-newspaper-layout-with-css-grid-and-border-lines-between-elements/) 
- <p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGyYMYN" data-pen-title="Untitled" data-user="ricoThaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/ricoThaka/pen/bGyYMYN">
-  Untitled</a> by ricoThaka (<a href="https://codepen.io/ricoThaka">@ricoThaka</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 [https://www.svgviewer.dev/](https://www.svgviewer.dev/) [How to add border/outline/stroke to SVG elements in CSS?](https://stackoverflow.com/questions/18330344/how-to-add-border-outline-stroke-to-svg-elements-in-css)
 ## W3C's Editor
@@ -84,11 +105,8 @@ Climate is controlled by the amount of sunlight absorbed by Earth and the amount
 
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## About Georgia 
 ![Art](https://pbs.twimg.com/media/F9jt_g3akAAfNO3?format=jpg&name=large)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># <a href="https://twitter.com/MayorOfLA?ref_src=twsrc%5Etfw">@MayorOfLA</a> i thik <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/hashtag/NeoNazi?src=hash&amp;ref_src=twsrc%5Etfw">#NeoNazi</a> boyfriend <a href="https://twitter.com/AllCityMurals?ref_src=twsrc%5Etfw">@AllCityMurals</a> <a href="https://twitter.com/hashtag/MATT?src=hash&amp;ref_src=twsrc%5Etfw">#MATT</a> <a href="https://twitter.com/hashtag/LETRS?src=hash&amp;ref_src=twsrc%5Etfw">#LETRS</a> <a href="https://twitter.com/BombingScience?ref_src=twsrc%5Etfw">@BombingScience</a> took this photo! i was normal black person like <a href="https://twitter.com/hashtag/TheFreemanBrothers?src=hash&amp;ref_src=twsrc%5Etfw">#TheFreemanBrothers</a> on the boondoks <a href="https://twitter.com/kcrw?ref_src=twsrc%5Etfw">@kcrw</a> <a href="https://twitter.com/mbeKCRW?ref_src=twsrc%5Etfw">@mbeKCRW</a> <a href="https://twitter.com/nprpolitics?ref_src=twsrc%5Etfw">@nprpolitics</a> <a href="https://twitter.com/nprmusic?ref_src=twsrc%5Etfw">@nprmusic</a> the kids was getting humiliated in graff so i gave them pointers <a href="https://twitter.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> <a href="https://t.co/04qk0r4cRc">pic.twitter.com/04qk0r4cRc</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://twitter.com/BubbleGumPop510/status/1718385330523664452?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flex-wrap) by [Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 ![Flex-wrap](https://css-tricks.com/wp-content/uploads/2018/10/flex-wrap.svg)
@@ -114,7 +132,6 @@ By default, flex items will all try to fit onto one line. You can change that an
 
 <embed src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true" />
 
- <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> &#39; <a href="https://twitter.com/NASAJPL?ref_src=twsrc%5Etfw">@nasajpl</a> <a href="https://twitter.com/hashtag/cafeteria?src=hash&amp;ref_src=twsrc%5Etfw">#cafeteria</a> <a href="https://twitter.com/LACountyLibrary?ref_src=twsrc%5Etfw">@LACountyLibrary</a> <a href="https://twitter.com/LASDHQ?ref_src=twsrc%5Etfw">@LASDHQ</a> <a href="https://twitter.com/hashtag/EastLosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#EastLosAngeles</a> this happened <a href="https://twitter.com/laplcentral?ref_src=twsrc%5Etfw">@laplcentral</a> <a href="https://twitter.com/CENTCOM?ref_src=twsrc%5Etfw">@CENTCOM</a> <a href="https://twitter.com/hashtag/LocalNews?src=hash&amp;ref_src=twsrc%5Etfw">#LocalNews</a> <a href="https://twitter.com/hashtag/NEW%E5%8D%88%E5%BE%8C%E3%83%86%E3%82%A3%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#NEW午後ティー</a> <a href="https://twitter.com/hashtag/MondayMemories?src=hash&amp;ref_src=twsrc%5Etfw">#MondayMemories</a> <a href="https://twitter.com/Normani?ref_src=twsrc%5Etfw">@normani</a> <a href="https://twitter.com/girlsinrap?ref_src=twsrc%5Etfw">@girlsinrap</a> is <a href="https://twitter.com/hashtag/Cardi?src=hash&amp;ref_src=twsrc%5Etfw">#Cardi</a> on <a href="https://twitter.com/hashtag/Figuroa?src=hash&amp;ref_src=twsrc%5Etfw">#Figuroa</a> ? how about <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> ? <a href="https://twitter.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a> <a href="https://twitter.com/hashtag/DTLA?src=hash&amp;ref_src=twsrc%5Etfw">#DTLA</a> <a href="https://twitter.com/hashtag/Hollywood?src=hash&amp;ref_src=twsrc%5Etfw">#Hollywood</a> <a href="https://twitter.com/OnlyFans?ref_src=twsrc%5Etfw">@onlyfans</a> <a href="https://twitter.com/janikalashae?ref_src=twsrc%5Etfw">@janikalashae</a> <a href="https://t.co/GSmDjHOSqY">pic.twitter.com/GSmDjHOSqY</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1800257968799461652?ref_src=twsrc%5Etfw">June 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # [Mars Odyssey](https://www.jpl.nasa.gov/missions/mars-odyssey)
 NASA’s 2001 Mars Odyssey mission created the first global map of chemical elements and minerals that make up the Martian surface.
@@ -199,10 +216,6 @@ An Atlanta-based company specializing in subprime credit cards and auto loans ha
     </div>
   </div>
 </div>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NASAMars?ref_src=twsrc%5Etfw">@nasamars</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@essence</a> <a href="https://twitter.com/TanyaAChristian?ref_src=twsrc%5Etfw">@TanyaAChristian</a> <a href="https://twitter.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://twitter.com/KingJames?ref_src=twsrc%5Etfw">@kingjames</a> im her <a href="https://twitter.com/hashtag/Dance?src=hash&amp;ref_src=twsrc%5Etfw">#Dance</a> and <a href="https://twitter.com/hashtag/Yoga?src=hash&amp;ref_src=twsrc%5Etfw">#Yoga</a> <a href="https://twitter.com/hashtag/Student?src=hash&amp;ref_src=twsrc%5Etfw">#Student</a> sometimes pal she is in one of those <a href="https://twitter.com/hashtag/HollywoodMasks?src=hash&amp;ref_src=twsrc%5Etfw">#HollywoodMasks</a> like <a href="https://twitter.com/iamcardib?ref_src=twsrc%5Etfw">@iamcardib</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@gadfcs</a> is her being with <a href="https://twitter.com/hashtag/Lebron?src=hash&amp;ref_src=twsrc%5Etfw">#Lebron</a> <a href="https://twitter.com/NBA?ref_src=twsrc%5Etfw">@nba</a> y im <a href="https://twitter.com/hashtag/bullied?src=hash&amp;ref_src=twsrc%5Etfw">#bullied</a> ? <a href="https://twitter.com/Lakers?ref_src=twsrc%5Etfw">@Lakers</a> <a href="https://twitter.com/LACo_DPSS?ref_src=twsrc%5Etfw">@LACo_DPSS</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://t.co/o6fh6c67kI">https://t.co/o6fh6c67kI</a> <a href="https://t.co/QPpjPlicop">pic.twitter.com/QPpjPlicop</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1799498986967232970?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://t.co/cVDHHvvuIg">https://t.co/cVDHHvvuIg</a> <a href="https://twitter.com/MsNormani?ref_src=twsrc%5Etfw">@msnormani</a> <a href="https://twitter.com/GADFCS?ref_src=twsrc%5Etfw">@GADFCS</a> <a href="https://twitter.com/hashtag/Lebron?src=hash&amp;ref_src=twsrc%5Etfw">#Lebron</a> understand iWas@ her studio <a href="https://twitter.com/hashtag/EverySaturday?src=hash&amp;ref_src=twsrc%5Etfw">#EverySaturday</a> she is still a <a href="https://twitter.com/hashtag/SharedWoman?src=hash&amp;ref_src=twsrc%5Etfw">#SharedWoman</a> plz dont hurt me, when you guys bully me you look like matt // <a href="https://twitter.com/Essence?ref_src=twsrc%5Etfw">@Essence</a> <a href="https://twitter.com/brooklynrwhite?ref_src=twsrc%5Etfw">@brooklynrwhite</a> <a href="https://twitter.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> <a href="https://twitter.com/RepKarenBass?ref_src=twsrc%5Etfw">@RepKarenBass</a> She a <a href="https://twitter.com/hashtag/cheerleader?src=hash&amp;ref_src=twsrc%5Etfw">#cheerleader</a> an that shit sticky😢 <a href="https://t.co/TRwSCxG1k4">pic.twitter.com/TRwSCxG1k4</a></p>&mdash; ricoThaka (@RicoThaka) <a href="https://twitter.com/RicoThaka/status/1799494986914046284?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 [![Horizon of Mars](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg)](https://ia601307.us.archive.org/17/items/AILS_AC89-0437-6/AC89-0437-6.jpg "Redirect to homepage")
