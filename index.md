@@ -34,6 +34,7 @@ carousels:
     - image: /uploads/slider/image4.jpg
 
 ---
+![android](https://pbs.twimg.com/media/GPfRCYiaIAIsqdw?format=jpg&name=large)
 
 {% highlight ruby %} 
 1 # HOLE_TO_ANOTHER_UNiVERSE################NormaniLaShaE?# 
@@ -41,6 +42,21 @@ carousels:
 3 # ANOTHER##########https://s.id/1kmbG################### 
 4 # UNiVERSE####################################CORaL##### 
 {% endhighlight %}
+
+[![AppleiiE](https://upload.wikimedia.org/wikipedia/commons/b/b4/Apple_iie.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b4/Apple_iie.jpg "Redirect to homepage")
+
+[Casio MX-10](https://www.msx.org/wiki/Casio_MX-10) [Apple II](https://en.wikipedia.org/wiki/Apple_II)
+[**X-Men Vs. Street Fighter (Euro 961004)**](https://archive.org/details/arcade_xmvsf)
+### Ladies Cypher
+![Monaleo](https://pbs.twimg.com/media/GQnsZcOaMAAARiD?format=jpg&name=large)
+[Ladies Cypher: Kali, Big Boss Vette, Erica Banks, Mello Buckzz, K Carbon, Enchanting, Skylar Blatt](https://www.youtube.com/watch?v=BqTBtiPXrXc)
+[Ladies Cypher](https://youtu.be/O_6qg8Ky6hs?si=EZmH8RmNQiwEhM-y) [All-Women Cypher Featuring Latto, Flo Milli, Monaleo, Maiya The Don and Mello Buckzz](https://youtu.be/fIs7Cv1JQdM?si=5fqy4jcsVFwL7T8w) 
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
+[Born in Slavery: Slave Narratives from the Federal Writers' Project, 1936 to 1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/articles-and-essays/)
+
+
+📷 [My Gallery at VSCO Normani is Sartu but i took all the pictures except the ones of her](https://vsco.co/rashardsartu/gallery) 📷
+[TOKiMONSTA - "Early To Dawn" (feat. Selah Sue) [Plastic Plates Remix]](https://youtu.be/foTgYYQniJ0?si=9ItIcbzzox9oGZBk)
 
 ### [Dj Will You Play · Raheem the Dream](https://www.youtube.com/watch?v=1KTwEQzBFoM) [Freak It · Lathun](https://www.youtube.com/watch?v=CgCkC0OLgck)
 ### [MTV's Oddities:The Head](https://archive.org/details/mtvs-oddities-inside-the-head)
